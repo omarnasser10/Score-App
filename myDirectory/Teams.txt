@@ -1,0 +1,2 @@
+teamID=1, teamName=al ahly, coachName=null, foundationYear=1907, stadiumName=cairo, stadiumCapacity=650000, league=Egyptian League, totalGoals=0, totalGoalsConceded=0, wins=0, draws=0, losses=0, points=0, currentRank=0, players{ [] }, captain=0
+teamID=2, teamName=al zamalek, coachName=null, foundationYear=1907, stadiumName=cairo, stadiumCapacity=650000, league=Egyptian League, totalGoals=0, totalGoalsConceded=0, wins=0, draws=0, losses=0, points=0, currentRank=0, players{ [1] }, captain=0

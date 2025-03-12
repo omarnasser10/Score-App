@@ -1,0 +1,1 @@
+playerID=1, name=zizo, age=20, nationality=egyption, position=lwf, team=al zamalek, shirtNumber=25, goals=0, assists=0, yellowCards=0, redCards=0, injury=false, marketValue=100000.0
